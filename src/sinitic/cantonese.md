@@ -31,3 +31,10 @@
 | p      | ap 插  | aop 輯 | ep 夾  |         |        |         |        | ip 接 |       |       |
 | t      | at 達  | aot 突 | et     |         | ot 渴  |         | oet 出 | it 結 | ut 沒 | yt 血 |
 | k      | ak 百  | aok 北 | ek 錫  | ehk 亦  | ok 國  | ohk 六  | oek 著 |       |       |       |
+
+### tones
+tones are indicated with numbers. the system works similarly to jyutping.
+
+![tones](../img/cantonese.png)
+
+the tones for the checked syllables (indicated 7--9 in jyutping) use 1, 3, and 6 for high, medium and low respectively.
