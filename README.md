@@ -9,11 +9,11 @@ this is the result.
 
 ## sinitic
 
-[putonghua v1: old hangul](bad%20spelling%20reforms%202f603c9488e942c892b86858adfdb682/v1%20old%20hangul%20f560d81fb985414eb463887a521face6.md)
+[putonghua v1: old hangul](src/sinitic/putonghua1.md)
 
-[putonghua v2: typeable](bad%20spelling%20reforms%202f603c9488e942c892b86858adfdb682/v2%20typeable%20ab2b0a63605d4c858d8fa79fae5a7295.md)
+[putonghua v2: typeable](src/sinitic/putonghua2.md)
 
-[shanghainese](bad%20spelling%20reforms%202f603c9488e942c892b86858adfdb682/shanghainese%209832550c690e40cbb06c6792495a8ef1.md)
+[shanghainese](src/sinitic/shanghainese.md)
 
 ## southeastasia
 
