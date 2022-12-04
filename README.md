@@ -17,10 +17,10 @@ this is the result.
 
 ## southeastasia
 
-[tiếng việt](bad%20spelling%20reforms%202f603c9488e942c892b86858adfdb682/tie%CC%82%CC%81ng%20vie%CC%A3%CC%82t%2013ff363b55664245a20fcc977b3345fc.md)
+[tiếng việt](src/sea/tiengviet.md)
 
-[hmoob dawb](bad%20spelling%20reforms%202f603c9488e942c892b86858adfdb682/hmoob%20dawb%202a6891518ca2461ca87a8c3eec246fd6.md)
+[hmoob dawb](src/sea/hmoobdawb.md)
 
 ## conlangs
 
-[poliespo](bad%20spelling%20reforms%202f603c9488e942c892b86858adfdb682/poliespo%20b02297541ec54c4486bf6681f08d87ae.md)
+[poliespo](src/conlangs/poliespo.md)
