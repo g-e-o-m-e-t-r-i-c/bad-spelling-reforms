@@ -15,7 +15,7 @@ this is the result.
 
 [shanghainese](src/sinitic/shanghainese.md)
 
-## southeastasia
+## southeast asia
 
 [tiếng việt](src/sea/tiengviet.md)
 
